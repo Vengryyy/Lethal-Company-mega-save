@@ -4,7 +4,7 @@
 [ENG] The save contains **all possible decorations, improvements, and items** (At the time of version **45** of the game). There are **690123069 credits** in the terminal. **Quota: 0/130. Deadline: 3 days.**
 [RU]  Сохранение содержит **все возможные декорации, улучшения, и предметы** (На момент **45** версии игры). В терминале **690123069 кредитов.** **Квота: 0/130. Дедлайн: 3 дня.**
 
-[How to setup? / Как установить?](https://github.com/Vengryyy/Lethal-Company-mega-save/releases/tag/main)
+[**How to setup? / Как установить?**](https://github.com/Vengryyy/Lethal-Company-mega-save/releases/tag/main)
 
 # Purchased / Куплено
 ## Decorations / Декорации
